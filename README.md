@@ -1,7 +1,7 @@
 ## Menu De Atividades De Desenvolvimento Web1
 
 - [Atividade 1]( https://neguin05.github.io/Atividade-1-Web1/)
-- [Atividade 2]()
+- [Atividade 2]( https://neguin05.github.io/Atividade-2-Web1/)
 - [Atividade 3]()
 - [Atividade 4]()
 - [Atividade 5]()
