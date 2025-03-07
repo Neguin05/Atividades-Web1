@@ -3,7 +3,7 @@
 - [Atividade 1](https://neguin05.github.io/Atividade-1-Web1/)
 - [Atividade 2](https://neguin05.github.io/Atividade-2-Web1/)
 - [Atividade 3](https://neguin05.github.io/Atividade-3-Web1/)
-- [Atividade 4]()
+- [Atividade 4](https://neguin05.github.io/Atividade-4-Web1/)
 - [Atividade 5]()
 - [Atividade 6]()
 - [Atividade 7]()
