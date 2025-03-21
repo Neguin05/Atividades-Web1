@@ -9,7 +9,7 @@
 - [Atividade 7](https://neguin05.github.io/Atividade-7-Web1/)
 - [Atividade 8](https://neguin05.github.io/Atividade-8-Web1/)
 - [Atividade 9](https://neguin05.github.io/Atividade-9-Web1/)
-- [Atividade 10]()
+- [Atividade 10](https://neguin05.github.io/Atividade-10-Web1/)
 - [Atividade 11](https://neguin05.github.io/Atividade-11-Web1/)
 - [Atividade 12]()
 - [Atividade 13]()
