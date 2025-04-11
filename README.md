@@ -11,6 +11,6 @@
 - [Atividade 9](https://neguin05.github.io/Atividade-9-Web1/)
 - [Atividade 10](https://neguin05.github.io/Atividade-10-Web1/)
 - [Atividade 11](https://neguin05.github.io/Atividade-11-Web1/)
-- [Atividade 12]()
+- [Atividade 12](https://neguin05.github.io/Atividade-12-Web1/)
 - [Atividade 13]()
 - [Atividade 14]()
